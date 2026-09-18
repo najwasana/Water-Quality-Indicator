@@ -70,3 +70,7 @@ The Arduino source code is available in:
 ## 📸 Project Setup
 
 The project consists of an Arduino UNO, turbidity sensor, 16×2 I2C LCD, and buzzer connected to monitor and indicate water turbidity.
+
+## 📸 Project Setup
+
+![Water Quality Indicator](Screenshot_20260918_235844.jpg)
